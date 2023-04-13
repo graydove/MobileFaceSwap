@@ -1,4 +1,4 @@
-This is a unofficial code for implementing MobileFaceSwap.
+This is an unofficial code for implementing MobileFaceSwap.
 
 You can install all envs by the provided requiremnets.txt.
 
