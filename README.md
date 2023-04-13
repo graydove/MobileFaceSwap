@@ -44,7 +44,9 @@ Source:
 
 ![](images/target.png)
 
-![](results/source)
+Swapped:
+
+![](results/source.png)
 
 **Citation**
 ```
