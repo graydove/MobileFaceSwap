@@ -1,0 +1,1 @@
+python image_test.py --target_img_path ./images/source.png --source_img_path ./images/target.png --output_dir results --use_gpu True
